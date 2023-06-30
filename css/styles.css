@@ -14,7 +14,7 @@ header h2 {
     color: lightgrey;
 }
 
-footer {
+site-footer {
     background-image: linear-gradient(lightgrey, white);
     padding: 20px 0;
 }
